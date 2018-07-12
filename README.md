@@ -1,6 +1,6 @@
 # Deep_Reinforcement_Learning
 Deep Reinforcement Learning (C++, Python) (Windows, Mac, Ubuntu) (TensorFlow) (2018)
-![Farshid](https://github.com/pirahansiah/Deep_Reinforcement_Learning/blob/master/4.jpg)
+![Farshid](https://github.com/pirahansiah/Deep_Reinforcement_Learning/blob/master/4.jpg | width=100)
 # Deep Reinforcement Learning (C++, Python) (Windows, Mac, Ubuntu) (TensorFlow) (2018)
 ## Reinforcement Learning Methods
 - Dynamic Programming (DP) [89]
@@ -17,8 +17,6 @@ Deep Reinforcement Learning (C++, Python) (Windows, Mac, Ubuntu) (TensorFlow) (2
 - Double Q Learning: Corrects the stock DQN algorithm’s tendency to sometimes overestimate the values tied to specific actions.
 - Prioritized Replay: Extends DQN’s experience replay function by learning to replay memories where the real reward significantly diverges from the expected reward, letting the agent adjust itself in response to developing incorrect assumptions.
 - Dueling DQN: Splits the neural network into two — one learns to provide an estimate of the value at every time step, and the other calculates potential advantages of each action, and the two are combined for a single action-advantage Q function.
-- 
-- 
 - Action-Selection Strategies for Exploration
 - Partially Observable Markov Decision Processes (POMDPs)
 - Deep Recurrent Q-Networks (DRQN)
