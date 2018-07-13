@@ -1,4 +1,4 @@
-# Deep_Reinforcement_Learning
+ # Deep_Reinforcement_Learning
 Instead of giving any instructions or giving any examples, just let the machine go and figure out for itself how to achieve its task. An approach to artificial intelligence that gets computers to learn like people, without explicit instruction.
 
 Deep Reinforcement Learning (C++, Python) (Windows, Mac, Ubuntu) (TensorFlow) (2018)
@@ -27,15 +27,15 @@ Deep Reinforcement Learning (C++, Python) (Windows, Mac, Ubuntu) (TensorFlow) (2
 - Double-Dueling-DQN: The goal of Dueling DQN is to have a network that separately computes the advantage and value functions, and combines them back into a single Q-function only at the final layer
 - Asynchronous Advantage Actor-Critic (A3C) algorithm: universal starter agent, 
 
-#Deep Reinforcement Learning (DRL) applications experiencing exponential growth 
-##Reinforcement learning although in its very early stage of growth is already creating wonders. 
-##Improving self-driving cars, the technology can get a robot to grasp objects it has never seen before, and it can figure out the optimal configuration for the equipment in a data center.
-##Factors critical for target industry
-###Progress in self­driving cars and other forms of automation will slow dramatically unless machines can hone skills through experience.
-###Development of smart and efficient analytical learning algorithms that can help emulated human perception and intelligence. 
-###Development of a fault tolerant self-learning system is highly complex. 
+# Deep Reinforcement Learning (DRL) applications experiencing exponential growth 
+## Reinforcement learning although in its very early stage of growth is already creating wonders. 
+## Improving self-driving cars, the technology can get a robot to grasp objects it has never seen before, and it can figure out the optimal configuration for the equipment in a data center.
+## Factors critical for target industry
+### Progress in self­driving cars and other forms of automation will slow dramatically unless machines can hone skills through experience.
+### Development of smart and efficient analytical learning algorithms that can help emulated human perception and intelligence. 
+### Development of a fault tolerant self-learning system is highly complex. 
 
-Neural architecture search (RNN+DRL)	
+# Neural architecture search (RNN+DRL)	
 
 https://www.youtube.com/watch?v=z-2q1eMAwps 
 the robot can learn how to move objects even, not seen before, disrupted, …
